@@ -5,8 +5,8 @@ Data Analysis is the second step of Data Science. Once we have collected data, i
 
 Exploratory Data Analysis
 - Summary Statistics
-- Numerical Data (Quantitative, Describe, Center & Spread)
-- Categorical Data (Qaulitative, Object, Value Counts)
+  - Numerical Data (Quantitative, Describe, Center & Spread)
+  - Categorical Data (Qaulitative, Object, Value Counts)
 - Libraries: Pandas, Numpy
 
 Data Visualization
