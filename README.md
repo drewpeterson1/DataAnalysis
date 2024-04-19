@@ -7,3 +7,16 @@ Exploratory Data Analysis
 - Summary Statistics
 - Numerical Data (Quantitative, Describe, Center & Spread)
 - Categorical Data (Qaulitative, Object, Value Counts)
+- Libraries: Pandas, Numpy
+
+Data Visualization
+- Univariate
+  - Numerical Variable (Histogram, BoxPlot)
+  - Categorical Variable (BarPlot, PieChart)
+- BiVariate
+  - Numerical Variable (Scatterplot)
+  - Categorical Variable (Side-By-Side BoxPlot)
+- MultiVariate
+  - Barcharts (Stacked & Side-by-Side)
+  - Scatterplot (Categories ColorCoded)
+- Libraries: MatPlotLib, Seaborn
